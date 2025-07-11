@@ -1,2 +1,2 @@
-# Lux
-## Lux is a fast and compiled programming language that i don't know the speed of because i didn't made it yet.
+# Skiv
+## Skiv is a fast, modern and compiled programming language written in C++.
